@@ -1,0 +1,118 @@
+{
+  "topics": [
+    {
+      "topic": "Fixed Income Securities Classification in Brazil",
+      "sub_topics": [
+        "Fixed income securities represent loans from investors to issuers, with profitability defined by term, interest rate, and payment method. They are classified based on the nature of the issuer (governments – federal, state, and municipal – or private institutions, both financial and non-financial), impacting credit risk assessment, and by maturity (short, medium, and long term), influencing investment strategies.",
+        "The classification by maturity (short, medium, and long term) considers local economic conditions and influences pricing, sensitivity to interest rate changes, and investment strategies.  In Brazil, short-term securities like LTNs and CDBs may have maturities of less than one year, while long-term securities, like NTN-C, have a minimum term of 12 months. Internationally, instruments like Eurobonds have varying maturities.",
+        "The form of interest payment (fixed-rate, floating-rate, or hybrid) defines the return calculation method and the investor's exposure to interest rate and inflation variations. Fixed-rate securities offer cash flow predictability, floating-rate securities offer inflation protection, and hybrid securities combine characteristics of both. The choice should align with inflation expectations, interest rates, cash flow needs, and risk tolerance.  Each type has distinct regulatory implications.",
+        "The Brazilian fixed income market has a larger stock of government bonds compared to private bonds, but the secondary market turnover is relatively low and concentrated in the short term, reflecting investors' risk aversion. Regulation is essential to ensure liquidity and transparency.",
+        "The National Treasury issues government bonds like LTN, NTN, and CFT. Financial institutions issue private securities like DI, CDB, and Financial Exchange Letters. Non-financial companies issue debentures and commercial papers. Companies and governments can also issue securities in the international market, such as Eurobonds."
+      ]
+    },
+    {
+      "topic": "Government Bonds - Characteristics and Pricing",
+      "sub_topics": [
+        "Government bonds are issued by central administration bodies or other administrative entities to finance budget deficits, refinance public debt, or enable investments. They are subject to specific regulations regarding debt limits and fiscal management transparency. Federal bonds are the most common and safest, while states and municipalities issue State Treasury Bills (LFTE) and Municipal Treasury Bills (LFTM), respectively, subject to specific legislation.",
+        "The pricing of government bonds involves defining a price based on the security's characteristics, the expected income flow (coupon payments), and the term (business days, calendar days), using specific calculation methods for each security. Trading involves defining a price by buyers and sellers based on these factors.",
+        "Letras Financeiras do Tesouro (LFTs) are floating-rate bonds indexed to the accumulated Selic rate (the basic interest rate used by the Central Bank to control inflation). LFT-A pays an additional remuneration of 0.0245% p.m. Negotiation is done through a quotation representing a percentage of the Updated Nominal Value (VNA), reflecting the desired premium or discount rate. The calculation of the LFT quotation (COT) involves considering the Selic factor for the period between the base date (07/01/2000) and the settlement date.",
+        "Letras do Tesouro Nacional (LTNs) are short-term fixed-rate bonds traded at a discount to their face value. The price (Po) is calculated by bringing the face value of the bond (R$1,000.00) to the present value using a discount rate, reflecting interest rate expectations and risk assessment.",
+        "Notas do Tesouro Nacional (NTNs) are bonds whose redemption value is updated by indexers such as IPCA, IGP-M, TR, and exchange rate variation, paying semi-annual interest (coupons) on the updated nominal value (VNA). The quotation (COT) is calculated by discounting the expected payment flow (periodic coupons plus the final redemption). Specific series include: NTN-B (indexed to IPCA, with a 6% p.a. coupon on the VNA, adjusted since 07/15/2000); NTN-C (similar to NTN-B, but using IGP-M, adjusted since 07/01/2000, with a 6% p.a. coupon); NTN-D (indexed to the USD exchange rate); NTN-F (fixed-rate, with a fixed redemption value of R$1,000.00 and a 10% p.a. coupon); NTN-H (indexed to the TR).",
+        "The National Treasury is also responsible for issuing and managing foreign debt securities, following the guidelines and regulations established by the Ministry of Economy and the Central Bank of Brazil."
+      ]
+    },
+    {
+      "topic": "Most Traded Government Bonds",
+      "sub_topics": [
+        "LFT (Letras Financeiras do Tesouro): Floating-rate bonds indexed to the Selic rate, issued in LFT-A and LFT-B series. LFT-A pays additional remuneration. Negotiation considers the Selic factor from the base date to settlement; the quotation represents a percentage of the VNA, reflecting the premium or discount.",
+        "LTN (Letras do Tesouro Nacional): Short-term fixed-rate bonds issued at a discount to face value, with no interim interest payments. Prices vary according to future interest rate expectations. Profitability is determined by the difference between the trading price and the nominal redemption value; the price is calculated by bringing the face value to the present value, considering the discount rate.",
+        "NTN (Notas do Tesouro Nacional): Bonds whose redemption value is updated by indexers (IPCA, IGP-M, TR, or exchange rate variation) and pay semi-annual coupons. They are traded with a premium or discount to face value. The quotation (COT) discounts the expected payment flow, reflecting inflation and real interest expectations."
+      ]
+    },
+    {
+      "topic": "Private Securities - Characteristics",
+      "sub_topics": [
+        "Financial and non-financial institutions issue securities to raise short and long-term funds in the financial market. These are subject to specific regulations on security types, terms, guarantees, and information to be disclosed to investors. Examples include: Depósitos Interfinanceiros (DI) for the very short term; Certificados de Depósitos Bancários (CDB) and Recibos de Depósitos Bancários (RDB) for the short and medium-term.",
+        "Depósitos Interfinanceiros (DI) are instruments for raising and transferring money between financial institutions in the interbank market. They are registered electronically with Cetip S.A. (Balcão Organizado de Ativos e Derivativos) and are tax-exempt. Maturities range from one to 120 days, and settlement occurs in D+1. The interest rate (i) is expressed on an annual basis considering 252 business days. The average overnight rate forms the \"Cetip over rate,\" used as a reference for other short-term operations.",
+        "Certificados de Depósito Bancário (CDB) are book-entry securities through which commercial and multiple banks raise funds from the public. They are regulated by Law 4728/65 and Resolution of the National Monetary Council 18/66, registered electronically with Cetip, and subject to Income Tax and IOF. They can be fixed-rate or floating-rate (TR, TJLP, DI, Selic, IGP-M), with different calculation methods and minimum issuance terms depending on the indexer used. Gross earnings are taxed by IR at decreasing rates, with IOF incidence for redemptions under 30 days.",
+        "Letras Financeiras (LF) are long-term securities issued by financial institutions (multiple banks, commercial banks, investment banks, credit, financing and investment companies, savings banks, mortgage companies, and real estate credit companies). They have a minimum nominal value of R$300,000.00, a minimum term of two years, and remuneration by a fixed or combined interest rate (floating rates are allowed, but exchange rate variation clauses are prohibited). Periodic payment of income occurs at intervals of at least 180 days, as per Resolution 3.836/10 of the National Monetary Council.",
+        "Letras de Câmbio (LC) are issued by credit, financing, and investment companies (called \"financeiras\") to finance direct consumer credit. They can be fixed or floating-rate. The issuer instructs the acceptor to pay the payee an amount on the fixed date, time and place.  They are registered electronically with Cetip and traded through an effective interest rate referenced to the 360-day commercial year. They have similar characteristics to CDBs regarding minimum terms, fundraising conditions, and redemption value calculation.",
+        "Letras Hipotecárias (LH) are fixed income securities issued by institutions that provide mortgage credit. They are guaranteed by the housing loans granted by the institution. Profitability is based on the TR plus a negotiable interest rate, influenced by the term and amount of the application and exempt from taxes.",
+        "Letras Imobiliárias (LI) are promissory notes issued by the Caixa Econômica Federal and real estate credit companies, with mandatory custody at Cetip.",
+        "Recibos de Depósitos Bancários (RDB) have the same characteristics as CDBs but cannot be transferred or traded on the secondary market.",
+        "Commercial Papers are short-term securities issued by non-financial corporations to raise working capital. They are registered in the Promissory Notes System (Nota) of Cetip. They can be fixed-rate or floating-rate, with a base year of 360 calendar days. They are subject to withholding Income Tax at a decreasing rate.",
+        "Debentures are medium and long-term securities issued by corporations (S.A.), ensuring the holder a credit right against the issuing company.  They can have a variety of types, differing in terms, forms of remuneration (fixed or floating-rate by interest rates or price index), form of redemption (simple, convertible, or exchangeable), and granting of guarantees (secured or unsecured). All characteristics are established at a general meeting of shareholders.  Only publicly-held companies, registered with the CVM, can make public issues of debentures. Private placement is aimed at a restricted group of investors, without the need for CVM registration. Debentures are issued in book-entry form and registered with Cetip's National Debenture System (SND)."
+
+      ]
+    },
+    {
+      "topic": "Securities Issued Abroad",
+      "sub_topics": [
+        "Eurobonds are private or public securities issued in foreign currency and traded in the international market (except in the currency's country of origin). They represent an important source of long-term resources at a relatively low interest rate.  They can be fixed-rate (semi-annual interest payment with a linear interest rate) or floating-rate (interest rate defined at the beginning of each semester). Profitability is based on the interest rate of treasury bonds or Libor plus a premium determined by the term of the operation and the credit risk of the issuing institution. Non-financial institutions (generally large ones) can also raise funds in foreign currency by issuing eurobonds, subject to international financial market regulations and Brazilian exchange laws."
+      ]
+    },
+    {
+      "topic": "Duration",
+      "sub_topics": [
+        "Duration is a measure that determines the term of a synthetic (zero-coupon) bond whose cash flow produces a capital equivalent to all the (homogeneous or heterogeneous) cash flows of a portfolio. It allows measuring the impact of interest rate changes on bond prices and is understood as the bond's average term. For a zero-coupon bond, the duration is the time remaining until maturity. For assets with intermediate flows (bonds that pay interest coupons), duration is the weighted average of the terms, where the weights are given by the present value of the flow in relation to the price.",
+        "Modified duration measures, in percentage terms, the effect on a bond's price of a change in the return rate. It is a measure of price sensitivity to changes in the interest rate, keeping maturity constant. It is calculated as duration divided by (1 + rate). The portfolio's modified duration is a weighted average of the modified durations of each individual security, where the weighting is the proportion of each security in the portfolio.",
+        "Factors determining duration measures include: coupon rate (inversely related); principal amortization (inversely related); maturity (directly related); rate of return (inversely related); call and put clauses (decrease duration); and frequency of coupon payments (higher frequency decreases duration)."
+      ]
+    },
+      {
+      "topic": "Securities Issued by Non-Financial Institutions",
+      "sub_topics": [
+        "Debentures are medium and long-term securities issued by corporations (S.A.), either publicly or privately held, granting the holder a right to credit against the issuer. These securities help companies optimize their debt profile. Key characteristics like maturity, remuneration methods, redemption options (simple, convertible, or exchangeable), and guarantees (secured or unsecured) are determined during shareholder meetings. Debentures are registered with the National Debenture System (SND) at Cetip.",
+        "Commercial Papers are short-term securities issued by non-financial corporations specifically to raise working capital. They are registered in the Promissory Notes System (Nota) at Cetip and can be either fixed-rate or floating-rate. The calculation uses a 360-day year, and earnings are subject to withholding tax, with rates decreasing based on the investment's duration.",
+        "Perpetual Debentures, while permitted by law, have no predetermined maturity date. Maturity only occurs if the company cannot pay interest or is dissolved. They generally retain all other debenture characteristics and sometimes allow for early redemption."
+      ]
+    },
+       {
+      "topic": "Other Securities",
+      "sub_topics": [
+        "Commercial Papers are short-term instruments issued by non-financial companies for working capital, registered with Cetip, and subject to income tax. They may offer early redemption and investor resale options.",
+        "Letras Financeiras (LFs) are long-term securities issued by financial institutions. Governed by Resolution 3.836/10 of the National Monetary Council, they have a minimum nominal value of R$300,000.00, a minimum two-year term, and remuneration based on a fixed or combined interest rate, with periodic payments at least every 180 days.",
+        "Letras Hipotecárias (LHs) are fixed-income securities issued by mortgage lenders, backed by their mortgage loans. Their return is based on the TR plus a negotiable interest rate and are tax-exempt.",
+        "Letras Imobiliárias (LIs) are promissory notes issued by Caixa Econômica Federal and real estate credit companies, requiring mandatory custody at Cetip for secondary market trading.",
+        "Letras de Câmbio (LCs) are issued by credit, finance, and investment companies, with interest rates referenced to the 360-day commercial year and similar terms to CDBs. They are electronically registered with Cetip.",
+        "Recibos de Depósitos Bancários (RDBs) share characteristics with CDBs but are non-transferable and cannot be traded on the secondary market."
+      ]
+    },
+    {
+      "topic": "Debentures",
+      "sub_topics": [
+        "Debentures are medium and long-term securities issued by corporations (S.A.), granting holders a right to credit. Issued in book-entry form and registered with Cetip's SND, their features are determined in shareholder meetings.  Only publicly-held companies (registered with the CVM) can issue debentures to the general public.  Private placements target a limited group of investors without CVM registration.",
+        "Remuneration methods can be fixed-rate (360-day base year) or floating-rate, indexed to interest rates or price indices. Interest rates can be linked to the TR or TBF.  Maturity varies with the remuneration type. Guarantees can be secured (mortgage, pledge, or antichresis) or unsecured (chirographic). Redemption options include simple, convertible, or exchangeable.",
+         "Perpetual Debentures have no set maturity date, with conditions for maturity, such as non-payment of interest or company dissolution, outlined in the indenture. They usually maintain other debenture features and sometimes offer early redemption."
+
+      ]
+    },
+    {
+      "topic": "Determinants of Duration Measures",
+      "sub_topics": [
+        "Principal amortization is inversely related to duration: lower amortization leads to higher duration.",
+        "The frequency of coupon payments influences duration; more frequent payments result in lower duration.",
+        "Maturity is directly related to duration: shorter maturity leads to lower duration.",
+        "The rate of return is inversely related to duration: a higher rate of return leads to lower duration.",
+        "Call and put clauses reduce a bond's duration by shortening the time it remains in the market."
+      ]
+    },
+    {
+      "topic": "NTN-B",
+      "sub_topics": [
+        "NTN-B (National Treasury Notes Series B) yield an interest rate plus IPCA variation. They feature semi-annual coupons calculated on the VNA, adjusted by IPCA since 07/15/2000. The redemption value equals 100% of the face value.",
+        "NTN-B trading involves a quotation (COT), calculated as the present value of future coupon flows, discounted at an interest rate. The premium or discount represents the face value redeemed at maturity. The quote is truncated to four decimal places, and the purchase price is calculated by multiplying the VNA by the quote."
+      ]
+    },
+    {
+      "topic": "Securities Issued by Financial Institutions",
+      "sub_topics": [
+          "Certificados de Depósito Bancário (CDBs) are book-entry securities issued by banks to raise funds. Earnings are taxed by IR and IOF based on term. They can be fixed-rate or floating-rate (linked to TR, TJLP, DI, Selic, or IGP-M). They are regulated by Law 4728/65 and National Monetary Council Resolution 18/66, registered electronically at Cetip, and taxed with decreasing IR rates based on duration, plus IOF for terms under 30 days.",
+          "Depósitos Interfinanceiros (DIs) are instruments for interbank borrowing and lending, used for liquidity management and short-term operations. Maturities range from one to 120 days, are tax-exempt, and are electronically registered at Cetip.",
+          "Letras Financeiras (LFs) are long-term securities issued by financial institutions. They have a minimum nominal value of R$300,000.00, a minimum two-year term, and fixed or combined interest rate remuneration.",
+          "Letras de Câmbio (LCs) are issued by credit, financing, and investment companies for consumer financing.  They can be fixed or floating rate. The issuer directs the acceptor to pay the noteholder a specified amount on a fixed date, time, and place.  They're electronically registered at Cetip and traded via an effective interest rate tied to a 360-day commercial year.",
+          "Credit companies issue Letras de Câmbio (LCs) for consumer financing, similar to CDBs in terms, conditions, and redemption calculations. Letras Hipotecárias (LHs) are issued by mortgage providers, with returns based on the TR plus a negotiable interest rate."
+      ]
+    }
+  ]
+}

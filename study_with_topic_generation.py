@@ -16,7 +16,8 @@ PERSPECTIVES = [
 ]
 
 TARGET_FOLDERS = [
-    "04. Título de Renda Fixa"
+    "05. Mercados de Capitais",
+    "06. Mercado de Derivativos"
 ]
 EXCLUDED_FOLDERS = [
 ]

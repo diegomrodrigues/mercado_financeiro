@@ -129,18 +129,18 @@ class TaskProcessor:
                         print("  ✔️ JSON extraction successful")
                         print(f"  - JSON length: {len(extracted_json)}")
                     print("✓ JSON extraction succeed")
-                    
-                    # Add plot generation if configured
-                    if task_config.get('generate_plots', False):
-                        result = self._generate_plots_from_code(extracted_json, task_config)
-                    
+                                        
                     return extracted_json
                 else:
                     if self.debug:
                         print("  ❌ JSON extraction failed")
                     print("⚠️ JSON extraction failed.")
                     return None
-                    
+            
+            # Add plot generation if configured
+            if result and task_config.get('generate_plots', False):
+                result = self._generate_plots_from_code(result, task_config)
+
             return result
             
         except Exception as e:

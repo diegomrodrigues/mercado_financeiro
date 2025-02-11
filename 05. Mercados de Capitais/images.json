@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "filename": "figure1.jpg",
+      "path": "images/figure1.jpg",
+      "description": "A imagem apresenta um fluxograma simplificado do processo de abertura de capital de uma empresa, conforme descrito na se\u00e7\u00e3o 5.2 do documento. O fluxograma \u00e9 composto por quatro etapas sequenciais, representadas por setas indicando a progress\u00e3o do processo: \"Decis\u00e3o dos acionistas\", \"Aprova\u00e7\u00e3o legal CVM\", \"Coloca\u00e7\u00e3o prim\u00e1ria underwriting\" e \"Oferta em bolsas de valores\". Cada etapa representa um marco importante no processo de IPO (Initial Public Offering), desde a delibera\u00e7\u00e3o interna at\u00e9 a negocia\u00e7\u00e3o das a\u00e7\u00f5es no mercado.",
+      "legenda": ""
+    },
+    {
+      "filename": "figure2.jpg",
+      "path": "images/figure2.jpg",
+      "description": "O diagrama ilustra as fontes de financiamento para empresas, classificando-as em recursos pr\u00f3prios (gerados pelo pr\u00f3prio neg\u00f3cio, como lucros retidos e rotatividade do cr\u00e9dito), capital de terceiros (incluindo deb\u00eantures, commercial papers, capital de n\u00e3o residentes, e cr\u00e9dito banc\u00e1rio ou fornecedores), e recurso de terceiros, que incluem capital pr\u00f3prio como IPO, Private Placement, ou emiss\u00e3o de a\u00e7\u00f5es. Ele fornece uma vis\u00e3o geral estruturada das diferentes op\u00e7\u00f5es de financiamento dispon\u00edveis para as empresas, conforme mencionado na p\u00e1gina 3 do documento.",
+      "legenda": ""
+    },
+    {
+      "filename": "figure3.jpg",
+      "path": "images/figure3.jpg",
+      "description": "A imagem apresenta uma tabela que descreve os prazos de liquida\u00e7\u00e3o para diferentes tipos de opera\u00e7\u00f5es no mercado de a\u00e7\u00f5es, conforme definido pela CBLC (Companhia Brasileira de Liquida\u00e7\u00e3o e Cust\u00f3dia). A tabela divide as opera\u00e7\u00f5es por 'Mercado', 'Tipo de Opera\u00e7\u00e3o' (\u00e0 vista, a termo, futuro, op\u00e7\u00f5es e futuros) e 'Dia da Liquida\u00e7\u00e3o' (D+3, D+n, D+3 do dia do vencimento, D+1), indicando o n\u00famero de dias \u00fateis ap\u00f3s a data da negocia\u00e7\u00e3o em que a liquida\u00e7\u00e3o financeira \u00e9 realizada. As notas de rodap\u00e9 explicam a liquida\u00e7\u00e3o de pr\u00eamios negociados e os valores referentes ao ajuste di\u00e1rio de posi\u00e7\u00f5es.",
+      "legenda": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "topics": [
+    {
+      "topic": "Capital Markets",
+      "sub_topics": [
+        "Brazilian publicly traded companies can raise capital through the issuance of shares, debentures, subscription bonuses, or commercial papers.  They must register their securities with the CVM (Brazilian Securities and Exchange Commission) and distribute them to the public, following corporate governance rules to protect shareholders' rights, such as tag-along rights, adherence to arbitration, and transparency.",
+        "Opening the capital (going public) involves a shareholder decision, CVM approval, underwriting (placement of shares), and offering on the stock exchange, following a process coordinated by investment banks and meeting CVM requirements.  An IPO (Initial Public Offering) designates the process before the launch of securities in the secondary market.",
+        "Public offering of shares (OPA) can aim at delisting, increasing ownership, selling control, or voluntary acquisition, following specific CVM rules, ensuring equitable treatment for shareholders of the same class and providing appropriate information.  It can be friendly or hostile.",
+        "BM&FBOVESPA created differentiated listing segments (Novo Mercado, Levels 1 and 2, Bovespa Mais) with corporate governance standards to protect shareholders, requiring transparency, share dispersion, and a balance of rights between controlling and minority shareholders. Corporate governance aims to increase the company's value and facilitate access to capital, involving relationships between shareholders, the board of directors, management, independent auditors, and the fiscal council.",
+        "Sources of company financing include internal resources (retained earnings, impacting profitability) and external resources (third-party resources such as debentures, commercial papers, loans, non-resident capital, and equity through the issuance of shares).  The most used sources of financing for companies in Brazil are the issuance of securities and bank loans, with the stock market and economic stability boosting IPOs.",
+        "When acquiring shares, investors become co-owners of the company, with the right to participate in the results, classified as ordinary (with voting rights) or preferred (priority in receiving dividends). Shares can be book-entry (without issuing certificates) or represented by certificates.",
+        "Stock exchanges play a crucial role by creating, organizing, and regulating markets where shares are traded transparently, covering both the exchange market and the over-the-counter market, which may or may not be organized, depending on government supervision. They ensure reliability and transparency, influencing companies' capital structure and investment profitability.",
+        "The capital market comprises both the exchange market, organized and regulated by the CVM, and the over-the-counter market, which can be organized or not. Instruments such as shares, debentures, commercial papers, and subscription bonuses are traded, being called securities. Securities include shares, debentures, subscription bonuses, coupons, deposit certificates, futures contracts, options and other derivatives, excluding public debt securities and debt securities of financial institutions (except debentures).",
+        "The capital market facilitates the capitalization of companies, contributing to wealth generation. It attracts investors of different sizes and enables corporate financing through the issuance and sale of shares, creating an alternative financing mechanism.",
+        "Shareholders' earnings include dividends (a portion of profits), interest on equity (remuneration based on reserves), stock bonuses (free distribution) or cash bonuses, and the right of preference in the acquisition of new shares (subscription).",
+        "The expected profitability of the investment is impacted by the use of internal sources of financing, which reduces the future flow of income."
+      ]
+    },
+    {
+      "topic": "Secondary Market",
+      "sub_topics": [
+        "The secondary market provides liquidity to investors, allowing the trading of securities acquired in the primary market without generating new resources for the issuing companies. It only involves the transfer of ownership of the securities.",
+        "Trading on the stock exchange is carried out in the electronic environment of BM&FBOVESPA, with purchase and sale offers posted by brokers and viewed in real time by participants.  Investors can use the Home Broker to place their offers directly over the internet, or by phone.",
+        "There are four forms of trading in the stock market: spot, forward, futures contracts, and options.  The BM&FBOVESPA also offers dollar-referenced forwards and forwards in points. The TVR (Termo com Vista Já Registrado) structured transaction allows the reversal of a purchase transaction registered in the spot market to a forward purchase transaction.",
+        "Trading is complemented by clearing and custody services, performed by Companhia Brasileira de Liquidação e Custódia (CBLC).  Clearinghouses establish deadlines and procedures for each stage of the transaction, such as the settlement cycle for spot, forward, and options modalities."
+      ]
+    },
+    {
+      "topic": "Securities Lending (BTC)",
+      "sub_topics": [
+        "The Securities Lending Facility (BTC), created by BM&FBOVESPA, allows for the temporary transfer of securities from a lender (holder) to a borrower in exchange for an agreed-upon fee, with the obligation of return. It increases market liquidity and efficiency, benefiting investors with short and long-term strategies.",
+        "BM&FBOVESPA acts as a central counterparty, guaranteeing the anonymity of the parties and mitigating credit risk, with risk control criteria and rules for the proper functioning of the market.  It is responsible for registration, confirmation, risk control, monitoring of custody events, and settlement of transactions, in addition to disclosing information to the market.",
+        "The lender's main motivation is to obtain additional risk-free gains in long-term strategies, while the borrower seeks arbitrage and short-selling operations.  The current legislation, CVM Instruction 441, requires the intermediation of lending transactions by brokerage and securities distribution firms.",
+        "Brokerage firms are the institutions that intermediate lending transactions, with BM&FBOVESPA acting as a central counterparty and guaranteeing the anonymity of the parties. Participants include BM&FBOVESPA (central counterparty), brokers (intermediation), custody agents (of the securities) and clearing agents (responsible for settlement). Custody agents are institutions that use the BM&FBOVESPA Central Depository of Assets service to hold securities.",
+        "Offer registration at the BTC is carried out by the client's intermediary institution, with offers being essentially lenders (making securities available for lending in exchange for remuneration) and borrowers (institutions that need the securities). The closing of transactions is carried out through intermediary institutions, with the BTC verifying the existence of guarantees from the borrowing client.",
+        "Eligible assets are securities issued by publicly-held companies admitted to trading on BM&FBOVESPA, deposited in the BM&FBOVESPA Central Depository of Assets. BM&FBOVESPA requires collateral from the borrower and sets maximum open position limits.",
+        "The BTC allows for three settlement alternatives for lending agreements: fixed term, lender and borrower request settlement, and borrower requests settlement. Automatic lending is a modality that reduces failures in securities transactions, ensuring the completion of the operation and maintaining a borrowing position for the defaulting seller.",
+        "Custody events replicate the treatment that the lender would have if they held the shares, with BM&FBOVESPA responsible for handling and adjusting dividends. In the event of default, the contract becomes delinquent, and the financial settlement of the remuneration occurs normally on D+1 of maturity, with retention of the guarantees and application of a fine. If the return does not occur, BM&FBOVESPA may determine the repurchase or financial settlement of the transaction.",
+        "The calculation of the financial values of the loan agreement can be segregated into two main components: the financial volume of the agreement and the rate factor charged to the period."
+
+      ]
+    },
+    {
+      "topic": "Stock Indices",
+      "sub_topics": [
+        "Stock indices summarize the price evolution of a set of shares into a single indicator, used to represent the market value of a theoretical portfolio and observe its temporal evolution. Their origin dates back to the end of the 19th century.",
+        "The different methodologies for calculating indices include equal-weighted, market capitalization-weighted, equal-weighted return, and liquidity-weighted indices. Each one responds to the concern of showing the best way to assess the evolution of a set of shares.",
+        "The Ibovespa is a weighted average of share prices, selected by a tradability criterion, with methodological criteria for selecting shares and calculating the theoretical quantity of each share. BM&FBOVESPA calculates the index in real time, automatically considering the prices of all spot markets, with the component shares of its portfolio.",
+        "The IBrX captures the return of a portfolio made up of the 100 most traded shares, weighted by the capitalization value of the shares held by the public. The IBrX-50 has the same characteristics as the IBrX, but its theoretical portfolio consists of the 50 most liquid shares of BM&FBOVESPA.",
+        "The FGV-100 Index (IBRE/CEEF) is a share price index of 100 private non-financial companies, selected by size, performance and liquidity. The IVBX-2 is composed of 50 shares of companies that have a high concept among investors.",
+        "The Corporate Governance Stock Index (IGC) evaluates companies traded on the Novo Mercado or classified in levels 1 and 2 of BM&FBOVESPA. The Corporate Sustainability Index (ISE) encourages socially responsible investments. The Differentiated Tag Along Stock Index (ITAG) measures the performance of companies that offer better conditions to minority shareholders. There are also sector indices such as IEE and ITEL.",
+        "The Mid Large Cap (MLCX) and Small Cap (SMLL) indices aim to measure the behavior of companies listed on the Stock Exchange in a segmented manner. Floating market capitalization (float) is calculated by multiplying the number of shares of a company held by the public by the market value of those same shares at a given time or period.",
+		"The Amex Major Market Index (XMI) is a weighted index of 20 blue chips. The Dow Jones Industrial Average (DJIA) is comprised of 30 companies (the largest blue chips)."
+      ]
+    },
+    {
+      "topic": "Exchange Traded Fund (ETF)",
+      "sub_topics": [
+        "An Exchange Traded Fund (ETF) is an index investment fund, with shares tradable on the stock exchange, seeking to obtain performance similar to the performance of a given market index, with the portfolio replicating the composition of that index. It combines the simplicity of trading with shares with the diversified risk of investment funds.",
+        "ETF trading can occur in the secondary market or in the primary market, when the investor integrates or redeems shares, with the size of the fund expanding or contracting according to demand. The integration and redemption of ETF shares occurs when the administrator creates and issues shares to the authorized agent in exchange for assets, or when the authorized agent redeems shares in exchange for assets. The authorized agent can also act as a market maker.",
+        "The parties involved in ETF operations include the stock exchange (platform for listing, trading, clearing, and custody), the fund manager (responsible for managing the fund's portfolio and replicating the performance of the benchmark index), the fund administrator (responsible for the administration of the fund and for the issuance and redemption of ETF shares), the authorized agent (broker-dealer that can issue and redeem minimum lots of ETFs), the market maker (maintaining continuous buy and sell offers), and the custodian (ensures the safekeeping of ETFs and the assets that comprise them).",
+        "The ETF reference value is the IOPV (Indicative Optimized Portfolio Value), an estimate of the theoretical value of the ETF share. The ETF market price fluctuates based on supply and demand.",
+        "BM&FBOVESPA also trades flexible options contracts on ETFs, such as contracts on IT Now INFC Index Fund (FIND11)."
+      ]
+    },
+    {
+      "topic": "Investment Clubs",
+      "sub_topics": [
+        "An investment club is a financial application created by a group of people who want to invest in shares, managed by a brokerage firm, securities distributor, or bank. It has a social statute (regulation), and the administrator is responsible for choosing the shares that make up the portfolio.",
+        "BM&FBOVESPA registers and supervises the club, together with the CVM, which establishes rules for the constitution, administration, operation, and disclosure of information, in addition to restrictions on the manager and limits on the ownership of the shares. In 2011, the CVM issued new Instructions, CVM № 494 and nº 495, which establish new rules for Investment Clubs.",
+        "According to CVM Instruction No. 494, the Investment Club is an open-ended condominium consisting of a minimum of 3 and a maximum of 50 natural persons. The Club must have at least 67% of its net equity invested in specific assets. No shareholder may hold more than 40% of the Club's total shares.",
+		    "The club manager cannot take out loans, provide guarantees, sell shares on credit, promise predetermined returns, invest funds abroad, acquire shares of the club itself, or use the Club's funds to pay for insurance against financial losses."
+      ]
+    },
+    {
+      "topic": "Global Investments",
+      "sub_topics": [
+        "The globalization process has led to the development of new forms of investment by residents of one country in assets of other countries, such as American Depositary Receipts (ADRs) and Brazilian Depositary Receipts (BDRs).",
+        "ADRs are deposit receipts issued by a US bank, quoted and traded in dollars on the US financial market, backed by shares of foreign companies held in custody by the issuing bank. They are a convenient way for US investors to acquire securities issued in other countries. There are four types of ADRs: Level I (traded on the over-the-counter market), Level II (traded on stock exchanges), Level III (involves the issuance of new shares), and Rule 144 A (private placement for QIBs).",
+        "BDRs are certificates representing securities of foreign companies, issued by depositary institutions in Brazil, backed by securities issued abroad, enabling trading on stock exchanges or over-the-counter markets. There are two categories of BDRs: sponsored (Levels I, II, or III) and non-sponsored (Level I only), with different registration and disclosure requirements.",
+        "The issuance of BDRs must be carried out by Brazilian institutions authorized by the Central Bank and qualified by the CVM, which act in the structuring and launch of the program. In sponsored BDRs, the company issuing the securities abroad is responsible for the information.  Unsponsored BDR Level 1 (BDR N1 NP) are issued without the involvement of the foreign company and are intended exclusively for financial institutions, investment funds, and portfolio managers authorized by the CVM.",
+        "The CVM only authorizes the issuance of BDR N1 NP backed by securities of companies based in countries whose regulatory bodies have entered into a cooperation agreement on consultation, technical assistance, and mutual assistance for the exchange of information with the CVM."
+      ]
+    },
+		{
+			"topic": "Position Limits",
+			"sub_topics": [
+				"BM&FBOVESPA set maximum limits for open positions, aiming, for example, to control excessive concentration of positions by borrowers, avoiding squeeze situations. The assets accepted by BM&FBOVESPA as collateral are defined and reviewed periodically."
+			]
+		},
+		{
+			"topic":"Calculation of the Ibovespa",
+			"sub_topics": [
+				"The Ibovespa is calculated by summing the product of the weights (theoretical quantity of the stock) and the last observed price of the shares that make up its theoretical portfolio. The stock exchange makes adjustments to the theoretical quantity of the Ibovespa portfolio to avoid distortions whenever a company distributes some type of earnings."
+			]
+		}
+  ]
+}
